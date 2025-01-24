@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Liston/static/css/main.8863ab82.css",
+    "main.js": "/Liston/static/js/main.23ff5a76.js",
+    "static/media/work-bg.png": "/Liston/static/media/work-bg.72714aa956f2c0dc9dbf.png",
+    "static/media/netflix.png": "/Liston/static/media/netflix.ab87f674dec0d2c31cc4.png",
+    "static/media/certification.jpg": "/Liston/static/media/certification.dc5e8543c64157b130aa.jpg",
+    "static/media/Listonnew.jpeg": "/Liston/static/media/Listonnew.31562326f1fb7f773d74.jpeg",
+    "static/media/Infosys.png": "/Liston/static/media/Infosys.8bb1033da44686d08028.png",
+    "static/media/RMS.jpg": "/Liston/static/media/RMS.12fb570c6fcb7ff71f8b.jpg",
+    "static/media/oracle.jpg": "/Liston/static/media/oracle.12fb570c6fcb7ff71f8b.jpg",
+    "static/media/API.webp": "/Liston/static/media/API.65e2c6b892c8dce4e4fc.webp",
+    "static/media/selenium.jpg": "/Liston/static/media/selenium.756e4714e1d135e00b9a.jpg",
+    "static/media/Testim.jpg": "/Liston/static/media/Testim.3b377375c98364c3ea85.jpg",
+    "static/media/logo.png": "/Liston/static/media/logo.7922a8eb9583ba51ba38.png",
+    "static/media/2.png": "/Liston/static/media/2.e13dcb6d4df74fcdac58.png",
+    "static/media/5.png": "/Liston/static/media/5.420bb890f0c516493000.png",
+    "static/media/3.png": "/Liston/static/media/3.b511076582c10309208a.png",
+    "static/media/4.png": "/Liston/static/media/4.b41f79a53a6729fe338f.png",
+    "static/media/6.png": "/Liston/static/media/6.130bf2a306d8076e1ed4.png",
+    "static/media/Todo.png": "/Liston/static/media/Todo.906c2f0329a803b794a1.png",
+    "static/media/1.png": "/Liston/static/media/1.5adfbc2584f4289cdd24.png",
+    "static/media/bg.jpg": "/Liston/static/media/bg.2dfc2d2f6e85e683e11a.jpg",
+    "static/media/salesforce.jpg": "/Liston/static/media/salesforce.c45a8f6ac96fdea10fb7.jpg",
+    "static/media/html.png": "/Liston/static/media/html.cb109c10d801d5178465.png",
+    "static/media/phone.jpg": "/Liston/static/media/phone.2670b21a5aa7b3876ba1.jpg",
+    "static/media/testim.webp": "/Liston/static/media/testim.e1ca354bc17ec91bd653.webp",
+    "static/media/slick.svg": "/Liston/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Liston/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Liston/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Liston/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Liston/index.html",
+    "main.8863ab82.css.map": "/Liston/static/css/main.8863ab82.css.map",
+    "main.23ff5a76.js.map": "/Liston/static/js/main.23ff5a76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8863ab82.css",
+    "static/js/main.23ff5a76.js"
+  ]
+}
